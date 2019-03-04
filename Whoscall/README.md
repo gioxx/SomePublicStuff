@@ -5,6 +5,7 @@ In attesa che le numerazioni [abbiano tutte lo stesso prefisso telefonico](https
 Riferimenti utili:
 
 - https://www.agcom.it/numerazionicallcenter
+- https://gioxx.org/2015/01/02/registro-pubblico-delle-opposizioni-come-funziona/
 
 ## Trading Online
 
@@ -19,3 +20,11 @@ Riferimenti utili:
 
 - +39 090 9416957
 - +39 02 87176924
+
+
+
+# Cosa possiamo fare insieme?
+
+**Rendere collaborativa la lista**. Crea una nuova *issue* qui su GitHub (o se preferisci modifica questo file README direttamente e crea così una nuova *Pull request*) così da arricchire la base dati per condividere numeri e scopi dei Call Center che ci sono dietro.
+
+Se non sai come muoverti su GitHub poco male, puoi contattarmi direttamente compilando questo modulo: https://gioxx.org/about/whoscall-lista-collaborativa/
